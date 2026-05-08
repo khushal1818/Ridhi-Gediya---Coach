@@ -50,7 +50,7 @@ export default function Navbar() {
 
             <div>
               <h1 className="text-lg md:text-2xl font-bold text-[#283618] leading-tight">
-                Ridhi Gediya
+                Riddhi Gediya
               </h1>
 
               <p className="text-sm md:text-base text-[#606c38] font-medium">

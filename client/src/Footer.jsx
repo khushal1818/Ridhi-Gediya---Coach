@@ -12,7 +12,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 grid md:grid-cols-3 gap-10">
         {/* Brand */}
         <div>
-          <h3 className="text-2xl font-bold text-[#fefae0]">Ridhi Gediya</h3>
+          <h3 className="text-2xl font-bold text-[#fefae0]">Riddhi Gediya</h3>
           <p className="mt-3 text-sm text-[#cfd8b5]">
             Natural products designed to improve your health and wellness every
             day.
@@ -105,7 +105,7 @@ export default function Footer() {
 
       {/* Bottom */}
       <div className="border-t border-[#606c38] mt-10 pt-6 text-center text-sm text-[#cfd8b5]">
-        © 2026 Ridhi Gediya Wellness Coach | All rights reserved.
+        © 2026 Riddhi Gediya Wellness Coach | All rights reserved.
       </div>
     </footer>
   );

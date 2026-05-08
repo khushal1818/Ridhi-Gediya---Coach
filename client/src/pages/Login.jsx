@@ -43,8 +43,12 @@ const Login = () => {
     // Save login info
     localStorage.setItem("isLogin", "true");
     localStorage.setItem("currentUser", JSON.stringify(matchedUser));
-
-    toast.success("Login Successful 🎉");
+    toast.success(
+      <div>
+        <p>Login successful 🎉</p>
+        <p>Welcome to Riddhi Gediya Coach</p>
+      </div>,
+    );
 
     navigate("/");
   };
